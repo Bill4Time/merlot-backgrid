@@ -1,6 +1,6 @@
 {
-  "name": "backgrid",
-  "version": "0.3.8",
+  "name": "@bill4time/merlot-backgrid",
+  "version": "0.4.0",
   "author": "Cloudflare, Inc. and contributors <jwong@cloudflare.com>",
   "description": "Backgrid.js is a set of components for building semantic and easily stylable data grid widgets with Backbone.",
   "homepage": "http://backgridjs.com/",
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/cloudflare/backgrid"
+    "url": "http://github.com/Bill4Time/merlot-backgrid"
   },
   "devDependencies": {
-    "@bill4time/merlot-backbone.paginator": "^2.0.0",
+    "@bill4time/merlot-backbone.paginator": "^2.1.0",
     "grunt": "^1.0.0",
     "grunt-cli": "^1.2.0",
     "grunt-contrib-clean": "^1.0.0",
